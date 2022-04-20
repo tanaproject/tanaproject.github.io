@@ -3358,7 +3358,7 @@ body.search-is-visible {
     }
     .s-header__nav .current a {
         background-color: transparent;
-        color: var(--color-1);
+        color: green;
     }
     .s-header__search-form::after {
         font-size: calc(var(--text-size) * 0.8889);
